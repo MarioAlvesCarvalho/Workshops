@@ -18,6 +18,8 @@ The list grows on demand and with the recent shift to online events, having a pl
 - Logic Analyzer
 - VS Code + Git for Makers
 
+- Testando o FORKYOU
+
 
 ## Where can I find the workshop schedule?
 
